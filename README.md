@@ -14,6 +14,13 @@ I’m currently went on a journey in Android development with Kotlin and I also 
 <br><br>
 Feel free to add me in LinkedIn.
 <br><br>
+---
+
+🧰 Technologies & Tools
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="30" >
+
+---
 
 ---
 
@@ -24,14 +31,10 @@ Feel free to add me in LinkedIn.
 ---
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" >
+
 <!--
 **VanSharine/VanSharine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### <img src="https://user-images.githubusercontent.com/50116696/117180968-23688f80-adab-11eb-86f4-c73e86d19d46.gif" width="25" height="25"> Hi, I'm Vanessa!
 
 📈 My GitHub Stats
----
 
-🧰 Technologies & Tools
-
----
