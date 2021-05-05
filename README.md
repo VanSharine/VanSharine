@@ -23,7 +23,7 @@ Feel free to add me in LinkedIn.
 
 <h3>⭐ GitHub Stats</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanSharine&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<span style="margin-left:5px">[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanSharine&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanSharine&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<div style="margin-left:5px"></div>[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanSharine&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
