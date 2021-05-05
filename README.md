@@ -1,4 +1,4 @@
-### <img src="https://user-images.githubusercontent.com/50116696/117210926-bc5cd200-adce-11eb-90cc-16fdbb0458f5.gif" width="25" height="25"> Hi, I'm Vanessa!
+### <img src="https://user-images.githubusercontent.com/50116696/117180968-23688f80-adab-11eb-86f4-c73e86d19d46.gif" width="25" height="25"> Hi, I'm Vanessa!
 
 <hr></hr>
 
