@@ -16,14 +16,14 @@ Feel free to add me in LinkedIn.
 <br><br>
 
 
-<h3>🧰 Technologies & Tools</h3>
+<h4>🧰 Technologies & Tools</h4>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" style="margin-left:5px">
 ---
 
-<h3>⭐ GitHub Stats</h3>
+<h4>⭐ GitHub Stats</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanSharine&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<"&nbsp">[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanSharine&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanSharine&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanSharine&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
