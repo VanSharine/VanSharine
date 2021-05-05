@@ -8,10 +8,8 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/50116696/117180909-0e8bfc00-adab-11eb-9a4d-4796824804f8.png" width="220" >
 <br>
-I am a full-stack software engineer who is currently passionately <br>
-curious about technology, life and people and suffering from <br>
-"obsessive disorder" by the fascinations of the world.
-
+I am a full-stack software engineer who is currently passionately curious about technology, life and people and suffering from "obsessive disorder" by the fascinations of the world.
+<br>
 I went on a journey in Android development with Kotlin when embarking on the Bootcamps of Digital House Brasil and Campinas Tech Talents.
 
 <!--
