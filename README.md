@@ -12,7 +12,7 @@ I am a full-stack software engineer who is currently passionately curious about 
 <br><br>
 I went on a journey in Android development with Kotlin and I also started to investigate the world of data.
 <br><br>
-I am currently a Runner Five (season 3) and a beginner in indoor climbing.
+Feel free to add me in LinkedIn.
 
 <!--
 **VanSharine/VanSharine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
