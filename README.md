@@ -19,12 +19,12 @@ Feel free to add me in LinkedIn.
 
 ⭐ GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanSharine&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<div style="margin-left:5px">[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanSharine&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanSharine&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<span style="margin-left:5px">[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanSharine&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 ---
 
 
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" >
 <!--
 **VanSharine/VanSharine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### <img src="https://user-images.githubusercontent.com/50116696/117180968-23688f80-adab-11eb-86f4-c73e86d19d46.gif" width="25" height="25"> Hi, I'm Vanessa!
