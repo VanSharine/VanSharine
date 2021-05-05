@@ -15,11 +15,12 @@ I’m currently went on a journey in Android development with Kotlin and I also 
 Feel free to add me in LinkedIn.
 <br><br>
 
+<!--
+**VanSharine/VanSharine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://user-images.githubusercontent.com/50116696/117180968-23688f80-adab-11eb-86f4-c73e86d19d46.gif" width="25" height="25"> Hi, I'm Vanessa!
+
 ---
 
 🧰 Technologies & Tools
 
 ---
-<!--
-**VanSharine/VanSharine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### <img src="https://user-images.githubusercontent.com/50116696/117180968-23688f80-adab-11eb-86f4-c73e86d19d46.gif" width="25" height="25"> Hi, I'm Vanessa!
