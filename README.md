@@ -14,13 +14,15 @@ I’m currently went on a journey in Android development with Kotlin and I also 
 <br><br>
 Feel free to add me in LinkedIn.
 <br><br>
+
 ---
 
 🧰 Technologies & Tools
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="30" >
 
 ---
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="30" >
 
 ---
 
