@@ -8,10 +8,11 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/50116696/117180909-0e8bfc00-adab-11eb-9a4d-4796824804f8.png" width="220" >
 <br>
-I am a full-stack software engineer who is currently passionately curious about technology, life and people and suffering from "obsessive disorder" by the fascinations of the world.
+I am a full-stack software engineer who is currently passionately curious about technology, zombies, books, life and people and suffering from "obsessive disorder" by the fascinations of the world.
 <br><br>
-I went on a journey in Android development with Kotlin when embarking on the Bootcamps of Digital House Brasil and Campinas Tech Talents.
-
+I went on a journey in Android development with Kotlin when embarking on some Bootcamps.
+<br><br>
+I am currently a Runner Five (season 3) and a beginner in indoor climbing.
 <!--
 **VanSharine/VanSharine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
