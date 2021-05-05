@@ -1,4 +1,4 @@
-### ![wave](https://user-images.githubusercontent.com/50116696/117180968-23688f80-adab-11eb-86f4-c73e86d19d46.gif =25x25) Hi, I'm Vanessa!
+### ![wave](https://user-images.githubusercontent.com/50116696/117180968-23688f80-adab-11eb-86f4-c73e86d19d46.gif) Hi, I'm Vanessa!
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
