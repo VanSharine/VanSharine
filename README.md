@@ -10,7 +10,7 @@
 <br>
 I am a full-stack software engineer who is currently passionately curious about technology, life and people. Suffering from "obsessive disorder" by the fascinations of the world and a old and eternal lover of music, books and zombies.
 <br><br>
-I went on a journey in Android development with Kotlin and I also started to investigate the world of data.
+I’m currently went on a journey in Android development with Kotlin and I also started to investigate the world of data.
 <br><br>
 Feel free to add me in LinkedIn.
 
