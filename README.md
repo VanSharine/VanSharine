@@ -14,6 +14,7 @@ I’m currently went on a journey in Android development with Kotlin and I also 
 <br><br>
 Feel free to add me in LinkedIn.
 <br><br>
+
 ---
 
 🧰 Technologies & Tools
