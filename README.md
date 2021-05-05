@@ -15,14 +15,13 @@ I’m currently went on a journey in Android development with Kotlin and I also 
 Feel free to add me in LinkedIn.
 <br><br>
 
----
 
 🧰 Technologies & Tools
 
 
 ---
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="30" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" >
 
 ---
 
@@ -30,7 +29,7 @@ Feel free to add me in LinkedIn.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanSharine&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<span style="margin-left:5px">[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanSharine&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</div>
 
----
+
 
 
 
