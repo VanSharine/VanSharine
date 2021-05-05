@@ -7,7 +7,7 @@
 <img src="https://camo.githubusercontent.com/faba74f6fb95df35fba91ca8d1ca0e77df78ccb528e7af1af7513bcf63a1e644/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a65676173686972612e73617975726940676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:vanessasharine@gmail.com" style="max-width:100%; margin-left:5px">
 
 
-I am a full-stack software engineer who is currently passionately curious about technology, life and people and suffering from "obsessive disorder" by the fascinations of the world.  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/50116696/117180909-0e8bfc00-adab-11eb-9a4d-4796824804f8.png" width="20" >
+I am a full-stack software engineer who is currently passionately curious about technology, life and people and suffering from "obsessive disorder" by the fascinations of the world.  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/50116696/117180909-0e8bfc00-adab-11eb-9a4d-4796824804f8.png" width="100" >
 
 <!--
 **VanSharine/VanSharine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
