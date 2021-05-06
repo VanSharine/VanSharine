@@ -18,14 +18,48 @@ Feel free to add me in LinkedIn.
 
 <h4>🧰 Technologies & Tools</h4>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="50" style="margin-left:5px"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" style="margin-left:5px">
 ---
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Code-Angular_8-informational?style=flat&logo=Angular&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=Apache&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-Composer-informational?style=flat&logo=Composer&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=Intellij-IDEA&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-Adobe_Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-WordPress-informational?style=flat&logo=WordPress&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-Android_Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=Spring&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Code-XML-informational?style=flat&logo=XML&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Code-Yaml-informational?style=flat&logo=Yaml&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=JSON&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-Amazon_AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-Quarkus-informational?style=flat&logo=PyCharm&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=0F80C0)
+
+
 
 <h4>⭐ GitHub Stats</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanSharine&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanSharine&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanSharine&hide=html,css&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanSharine&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
