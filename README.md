@@ -59,7 +59,7 @@ Feel free to add me in LinkedIn.
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanSharine&hide=html,css&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanSharine&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanSharine&hide=html,css&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanSharine&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
