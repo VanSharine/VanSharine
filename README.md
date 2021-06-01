@@ -51,7 +51,8 @@ Feel free to add me in LinkedIn.
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=0F80C0)
 ![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=0F80C0)
 ![](https://img.shields.io/badge/Tools-Quarkus-informational?style=flat&logo=PyCharm&logoColor=white&color=0F80C0)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-Orange_Data_Mining-informational?style=flat&color=0F80C0)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=0F80C0)
 
 
 
