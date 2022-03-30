@@ -10,7 +10,7 @@
 <br>
 I am a full-stack software engineer who is currently passionately curious about technology. 
 <br><br>
-I’m currently went on a journey in Android development with Kotlin and I also started to investigate the world of data.
+I’m currently started to investigate the world of data.
 <br><br>
 Feel free to add me in LinkedIn.
 <br><br>
