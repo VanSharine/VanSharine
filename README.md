@@ -35,8 +35,6 @@ Feel free to add me in LinkedIn.
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=0F80C0)
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=0F80C0)
 ![](https://img.shields.io/badge/Tools-WordPress-informational?style=flat&logo=WordPress&logoColor=white&color=0F80C0)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=0F80C0)
-![](https://img.shields.io/badge/Tools-Android_Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=0F80C0)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=0F80C0)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=Spring&logoColor=white&color=0F80C0)
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=0F80C0)
@@ -54,7 +52,8 @@ Feel free to add me in LinkedIn.
 ![](https://img.shields.io/badge/Tools-Orange_Data_Mining-informational?style=flat&color=0F80C0)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=0F80C0)
 
-
+<!-- ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=0F80C0)
+![](https://img.shields.io/badge/Tools-Android_Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=0F80C0)-->
 
 <h4>⭐ GitHub Stats</h4>
 
