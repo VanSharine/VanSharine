@@ -64,6 +64,15 @@ Feel free to add me in LinkedIn.
 
 
 
+---
+
+<details>
+<summary>🔗 Links used in this README</summary>
+<br>
+https://github.com/anuraghazra/github-readme-stats
+</details>
+
+
 <!--
 **VanSharine/VanSharine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### <img src="https://user-images.githubusercontent.com/50116696/117180968-23688f80-adab-11eb-86f4-c73e86d19d46.gif" width="25" height="25"> Hi, I'm Vanessa!
